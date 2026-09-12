@@ -12,7 +12,7 @@ For what:
 - To use on 3D models
 - You!  >:)
 
-Patch notes:
+Updates:
 9/11/26 - Centered/fixed the pivot point of the full collar model
 
 - ---
