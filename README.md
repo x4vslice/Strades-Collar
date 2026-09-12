@@ -12,9 +12,6 @@ For what:
 - To use on 3D models
 - You!  >:)
 
-Updates:
-9/11/26 - Centered/fixed the pivot point of the full collar model
-
 - ---
 
 **SIZING:** One-Size. Its current measurements are on the smaller side, fitting a neck 14cm wide
@@ -34,3 +31,6 @@ Fanmade.
 **FREE TO:** Use, print, modify, have fun 💚 Credits appreciated~
 
 ~XAV
+
+**Updates:**
+9/11/26 - Centered/fixed the pivot point of the full collar model
