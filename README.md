@@ -12,6 +12,9 @@ For what:
 - To use on 3D models
 - You!  >:)
 
+Patch notes:
+9/11/26 - Centered/fixed the pivot point of the full collar model
+
 - ---
 
 **SIZING:** One-Size. Its current measurements are on the smaller side, fitting a neck 14cm wide
